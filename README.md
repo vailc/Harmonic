@@ -9,8 +9,8 @@ Given a musical key (e.g. `Am`, `C#m`, `Bb`, `G`), it outputs all harmonically c
 Clone the repo and run the script with Python:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/harmonic-mixer-helper.git
-cd harmonic-mixer-helper
+git clone https://github.com/YOURUSERNAME/Harmonic.git
+cd Harmonic
 python3 harmonic.py Am
 ```
 
